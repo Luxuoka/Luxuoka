@@ -1,7 +1,11 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Putra%20Cikal%20Asmarandana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20Backend%20Developer&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header" width="100%" />
+
+# Putra Cikal Asmarandana
+
+**Frontend & Backend Developer** · Bandung, Indonesia 🇮🇩
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Hi+there!+%F0%9F%91%8B;Passionate+developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;I+love+building+clean+%26+modern+web+apps;Let's+build+something+awesome+together+%E2%9C%A8" alt="Typing SVG" />
@@ -96,8 +100,14 @@ const putra = {
 <a href="mailto:cikalidcamp@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+<a href="https://cikaldevsolutions.netlify.app/">
+  <img src="https://img.shields.io/badge/Website-7c3aed?style=for-the-badge&logo=netlify&logoColor=white" alt="Website" />
+</a>
 <a href="https://instagram.com/luxuoka">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.tiktok.com/@luxuoka">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
 <a href="https://github.com/Luxuoka">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
